@@ -179,7 +179,7 @@ Daily Problem   →  Solution Hunt     →   REST Submit
 
 > **Stack:** `Spring Boot` `Angular` `Microservices` `Red Hat OpenShift`
 
-Real-time collaborative code editor built on microservices architecture (auth · editor · session · notifications).
+Real-time collaborative code editor built on microservices architecture (auth · eureka · api gateway · collab · file · project · version · comment · execution · notification).
 Containerised with Docker and deployed on Red Hat OpenShift for production-grade cloud-native delivery.
 
 </details>
@@ -279,25 +279,23 @@ Full-stack ticket management CRM with role-based access control, real-time push 
 ### 📊 GitHub Stats
 
 <div align="center">
+  <img height="180em"
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=ANUBHAV-03042004&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ANUBHAV-03042004&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0&rank_icon=percentile"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANUBHAV-03042004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=e2e8f0&langs_count=8&hide=html,css"/>
-
+  <img height="180em"
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ANUBHAV-03042004&layout=compact&theme=tokyonight"/>
 </div>
+<br>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ANUBHAV-03042004&theme=tokyonight&hide_border=true&background=0d1117&stroke=c084fc&ring=818cf8&fire=f0abfc&currStreakLabel=c084fc&sideLabels=e2e8f0&dates=94a3b8" width="500"/>
-
+  <img src="https://streak-stats.demolab.com?user=ANUBHAV-03042004&theme=tokyonight&hide_border=true" />
 </div>
+
+<br>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ANUBHAV-03042004&bg_color=0d1117&color=c084fc&line=818cf8&point=f0abfc&area_color=c084fc&area=true&hide_border=true" width="100%"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANUBHAV-03042004&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
-
 ---
 
 ### 🎓 Education & Certifications
