@@ -14,7 +14,9 @@
 <div align="center">
 
 <!-- Clay pill badges -->
-<a href="mailto:mr.aksthegreat03042004@gmail.com"><img src="https://img.shields.io/badge/📧_Drop_a_Mail-c084fc?style=for-the-badge&logoColor=white" /></a>&nbsp;
+<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=mr.aksthegreat03042004@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/📧_Drop_a_Mail-c084fc?style=for-the-badge&logoColor=white" />
+</a>&nbsp;
 <a href="https://linkedin.com/in/anubhav-kumar-srivastava"><img src="https://img.shields.io/badge/💼_LinkedIn-818cf8?style=for-the-badge&logoColor=white" /></a>&nbsp;
 <a href="https://github.com/ANUBHAV-03042004?tab=repositories"><img src="https://img.shields.io/badge/🐙_28+_Repos-38bdf8?style=for-the-badge&logoColor=white" /></a>&nbsp;
 <a href="https://leetcode.com/u/anubhav-srivastava"><img src="https://img.shields.io/badge/🧩_LeetCode-f0abfc?style=for-the-badge&logoColor=white" /></a>
