@@ -347,7 +347,7 @@ SDA Lucknow   SDA Lucknow                     Mathura · CGPA: 8.1 🎓
 |--|----------|------|
 | 📧 | Email | [mr.aksthegreat03042004@gmail.com](mailto:mr.aksthegreat03042004@gmail.com) |
 | 💼 | LinkedIn | [linkedin.com/in/anubhav-kumar-srivastava](https://linkedin.com/in/anubhav-kumar-srivastava) |
-| 🐙 | GitHub | [github.com/ANUBHAV-03042004](https://github.com/ANUBHAV-03042004) |
+| 🐙 | GitHub | [github.com/ANUBHAV-03042004](https://github.com/A-K-SRIVASTAVA) |
 | 🧩 | LeetCode | [leetcode.com/u/anubhav-srivastava](https://leetcode.com/u/anubhav-srivastava) |
 | 📍 | Location | Lucknow, Uttar Pradesh, India |
 
