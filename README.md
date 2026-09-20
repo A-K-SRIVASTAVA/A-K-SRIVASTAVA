@@ -281,11 +281,11 @@ Full-stack ticket management CRM with role-based access control, real-time push 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em"
-       <!-- src="https://github-readme-stats-sigma-five.vercel.app/api?username=A-K-SRIVASTAVA&show_icons=true&theme=tokyonight"/> -->
+  <!-- <img height="180em"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=A-K-SRIVASTAVA&show_icons=true&theme=tokyonight"/>
 
   <img height="180em"
-       <!-- src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=A-K-SRIVASTAVA&layout=compact&theme=tokyonight"/> -->
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=A-K-SRIVASTAVA&layout=compact&theme=tokyonight"/>  -->
 </div>
 <br>
 
