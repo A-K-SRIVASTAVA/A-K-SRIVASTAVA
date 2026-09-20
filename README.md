@@ -282,10 +282,10 @@ Full-stack ticket management CRM with role-based access control, real-time push 
 
 <div align="center">
   <img height="180em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=A-K-SRIVASTAVA&show_icons=true&theme=tokyonight"/>
+       <!-- src="https://github-readme-stats-sigma-five.vercel.app/api?username=A-K-SRIVASTAVA&show_icons=true&theme=tokyonight"/> -->
 
   <img height="180em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=A-K-SRIVASTAVA&layout=compact&theme=tokyonight"/>
+       <!-- src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=A-K-SRIVASTAVA&layout=compact&theme=tokyonight"/> -->
 </div>
 <br>
 
@@ -296,7 +296,7 @@ Full-stack ticket management CRM with role-based access control, real-time push 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=A-K-SRIVASTAVA&theme=tokyo-night&hide_border=true" width="100%"/>
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=A-K-SRIVASTAVA&theme=tokyo-night&hide_border=true" width="100%"/> -->
 </div>
 ---
 
@@ -353,7 +353,7 @@ SDA Lucknow   SDA Lucknow                     Mathura · CGPA: 8.1 🎓
 
 *Open to: internships · freelance automation · interesting side projects · collabs*
 
-[![Visitor Count](https://komarev.com/ghpvc/?username=ANUBHAV-03042004&color=c084fc&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ANUBHAV-03042004)
+[![Visitor Count](https://komarev.com/ghpvc/?username=A-K-SRIVASTAVA&color=c084fc&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/A-K-SRIVASTAVA)
 
 </div>
 
