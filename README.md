@@ -282,21 +282,21 @@ Full-stack ticket management CRM with role-based access control, real-time push 
 
 <div align="center">
   <img height="180em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=ANUBHAV-03042004&show_icons=true&theme=tokyonight"/>
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=A-K-SRIVASTAVA&show_icons=true&theme=tokyonight"/>
 
   <img height="180em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ANUBHAV-03042004&layout=compact&theme=tokyonight"/>
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=A-K-SRIVASTAVA&layout=compact&theme=tokyonight"/>
 </div>
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ANUBHAV-03042004&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=A-K-SRIVASTAVA&theme=tokyonight&hide_border=true" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANUBHAV-03042004&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=A-K-SRIVASTAVA&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 ---
 
